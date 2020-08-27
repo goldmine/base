@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T05:41:45.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="7eEArPAB37FOlxSTNRdE" version="13.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-08-27T05:48:27.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="qmfpAIMuyBeNemjqIQNR" version="13.6.2" type="github" pages="5">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -424,6 +424,15 @@
         <mxCell id="MrjCLGJ_oe_ZIg8OmWNH-10" value="收藏作战" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="-hbJoY2uypCya8726XKS-1">
           <mxGeometry x="490" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iN7mqHkMWQ-ZWjArm5rw-0" value="Guest" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="-hbJoY2uypCya8726XKS-1">
+          <mxGeometry x="100" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iN7mqHkMWQ-ZWjArm5rw-1" value="只能浏览" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="-hbJoY2uypCya8726XKS-1">
+          <mxGeometry x="360" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iN7mqHkMWQ-ZWjArm5rw-2" value="投票?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="-hbJoY2uypCya8726XKS-1">
+          <mxGeometry x="490" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -432,6 +441,39 @@
       <root>
         <mxCell id="BIqOobG5EZvzSY3gjO3Z-0" />
         <mxCell id="BIqOobG5EZvzSY3gjO3Z-1" parent="BIqOobG5EZvzSY3gjO3Z-0" />
+        <mxCell id="KME-LP90bs4JKCvFtXZb-0" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="BIqOobG5EZvzSY3gjO3Z-1">
+          <mxGeometry x="100" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KME-LP90bs4JKCvFtXZb-1" value="增加用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="BIqOobG5EZvzSY3gjO3Z-1">
+          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KME-LP90bs4JKCvFtXZb-2" value="冻结用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="BIqOobG5EZvzSY3gjO3Z-1">
+          <mxGeometry x="490" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KME-LP90bs4JKCvFtXZb-3" value="发起作战" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="BIqOobG5EZvzSY3gjO3Z-1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KME-LP90bs4JKCvFtXZb-4" value="修改用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="BIqOobG5EZvzSY3gjO3Z-1">
+          <mxGeometry x="620" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KME-LP90bs4JKCvFtXZb-5" value="删除用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="BIqOobG5EZvzSY3gjO3Z-1">
+          <mxGeometry x="750" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KME-LP90bs4JKCvFtXZb-6" value="审核作战" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="BIqOobG5EZvzSY3gjO3Z-1">
+          <mxGeometry x="490" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KME-LP90bs4JKCvFtXZb-7" value="删除作战" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="BIqOobG5EZvzSY3gjO3Z-1">
+          <mxGeometry x="620" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KME-LP90bs4JKCvFtXZb-8" value="参与作战" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="BIqOobG5EZvzSY3gjO3Z-1">
+          <mxGeometry x="750" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KME-LP90bs4JKCvFtXZb-11" value="审核图片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="BIqOobG5EZvzSY3gjO3Z-1">
+          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KME-LP90bs4JKCvFtXZb-12" value="删除图片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="BIqOobG5EZvzSY3gjO3Z-1">
+          <mxGeometry x="490" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
