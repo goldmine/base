@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T05:48:27.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="qmfpAIMuyBeNemjqIQNR" version="13.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-08-27T05:52:02.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="vRZEvBx1cPH02VQs1BLh" version="13.6.2" type="github" pages="5">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -433,6 +433,9 @@
         <mxCell id="iN7mqHkMWQ-ZWjArm5rw-2" value="投票?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="-hbJoY2uypCya8726XKS-1">
           <mxGeometry x="490" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="S-UWEGFq73gkFLN9Fyvx-0" value="订阅信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="-hbJoY2uypCya8726XKS-1">
+          <mxGeometry x="880" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -477,7 +480,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ZqjCswxjVRr4aPLglfD4" name="Gues">
+  <diagram id="ZqjCswxjVRr4aPLglfD4" name="Database">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="kF_SHDuwDp9IB-NY3Vbx-0" />
