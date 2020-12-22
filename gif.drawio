@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T11:34:10.189Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4181.9 Safari/537.36" etag="d2eD8C00Ae3f-1oYBrMN" version="14.1.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-12-22T11:43:44.448Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4181.9 Safari/537.36" etag="h3AUaZHyhPn81I56QcUC" version="14.1.1" type="github" pages="13">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="2062" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -701,6 +701,202 @@
         </mxCell>
         <mxCell id="_BLeZh8__uOAp0ZYjLs0-13" value="忘记密码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Q_VdiXDfJ2BiBJVmaroK-1">
           <mxGeometry x="738.75" y="368" width="55" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Reset Password-1" id="b9wX2S98P-aOP6NwQYp7">
+    <mxGraphModel dx="2062" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-0" />
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-1" parent="wuO4gNF9UFjIngtlz1FD-0" />
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="170" y="230" width="330" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="500" y="230" width="330" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry width="1100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-5" value="logo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="20" y="5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-6" value="" style="group" vertex="1" connectable="0" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="120" y="15" width="900" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-7" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-6">
+          <mxGeometry x="710" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-8" value="注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-6">
+          <mxGeometry x="820" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-9" value="首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-6">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-10" value="热门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-6">
+          <mxGeometry x="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-11" value="分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-6">
+          <mxGeometry x="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-12" value="工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-6">
+          <mxGeometry x="300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-13" value="搜索" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-6">
+          <mxGeometry x="420" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-14" value="Title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="170" y="190" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-15" value="&lt;div&gt;&lt;font color=&quot;#2f2f2f&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;关于我们 · 联系我们 · 加入我们 · 商务合作 · 帮助中心 · 合作伙伴&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#2f2f2f&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#2f2f2f&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;©2012-2020 上海佰集信息科技有限公司 / 简书 / 沪ICP备11018329号-5 / Smrz 沪公网安备31010402002252号 /&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry y="790" width="1100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-16" value="邮箱&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="546.25" y="300" width="247.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-18" value="重置密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="610" y="410" width="122.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="500" y="190" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-20" value="" style="endArrow=none;html=1;" edge="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="489.5" as="sourcePoint" />
+            <mxPoint x="830" y="489.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-21" value="微信" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="560" y="510" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-22" value="其它社交账号登录&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="620" y="480" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-23" value="淘宝" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="640" y="510" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-24" value="QQ" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="720" y="510" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-25" value="&lt;u style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;注册&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="560" y="200" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-26" value="&lt;u style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;登录&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="670" y="200" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wuO4gNF9UFjIngtlz1FD-27" value="｜" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="650" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsA4NsJ3i1OW-988nCP-1" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;u&gt;使用邮箱重置密码&lt;/u&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="535" y="250" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bmsA4NsJ3i1OW-988nCP-2" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span&gt;手机验证码重置密码&lt;/span&gt;&lt;/span&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontStyle=0" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="677.5" y="250" width="116.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I_jaaJtNmzkyAAamgcZw-0" value="验证码" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="546.88" y="340" width="247.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I_jaaJtNmzkyAAamgcZw-1" value="1234" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;" vertex="1" parent="wuO4gNF9UFjIngtlz1FD-1">
+          <mxGeometry x="705.63" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Reset Password-2" id="Rv4hpphJrVGzx_dZJE9j">
+    <mxGraphModel dx="2062" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-0" />
+        <mxCell id="GCcJq7iA-P6piwCQyilY-1" parent="GCcJq7iA-P6piwCQyilY-0" />
+        <mxCell id="GCcJq7iA-P6piwCQyilY-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="170" y="230" width="330" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="500" y="230" width="330" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry width="1100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-5" value="logo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="20" y="5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-6" value="" style="group" vertex="1" connectable="0" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="120" y="15" width="900" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-7" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-6">
+          <mxGeometry x="710" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-8" value="注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-6">
+          <mxGeometry x="820" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-9" value="首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-6">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-10" value="热门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-6">
+          <mxGeometry x="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-11" value="分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-6">
+          <mxGeometry x="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-12" value="工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-6">
+          <mxGeometry x="300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-13" value="搜索" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-6">
+          <mxGeometry x="420" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-14" value="Title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="170" y="190" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-15" value="&lt;div&gt;&lt;font color=&quot;#2f2f2f&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;关于我们 · 联系我们 · 加入我们 · 商务合作 · 帮助中心 · 合作伙伴&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#2f2f2f&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#2f2f2f&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;©2012-2020 上海佰集信息科技有限公司 / 简书 / 沪ICP备11018329号-5 / Smrz 沪公网安备31010402002252号 /&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry y="790" width="1100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-16" value="手机号码" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="546.25" y="300" width="247.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-17" value="重置密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="610" y="410" width="122.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="500" y="190" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-19" value="" style="endArrow=none;html=1;" edge="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="489.5" as="sourcePoint" />
+            <mxPoint x="830" y="489.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-20" value="微信" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="560" y="510" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-21" value="其它社交账号登录&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="620" y="480" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-22" value="淘宝" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="640" y="510" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-23" value="QQ" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="720" y="510" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-24" value="&lt;u style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;注册&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="560" y="200" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-25" value="&lt;u style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;登录&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="670" y="200" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-26" value="｜" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="650" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-27" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span&gt;使用邮箱重置密码&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontStyle=0" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="535" y="250" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-28" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span&gt;手机验证码重置密码&lt;/span&gt;&lt;/span&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontStyle=4" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="677.5" y="250" width="116.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-29" value="验证码" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="546.88" y="340" width="247.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GCcJq7iA-P6piwCQyilY-30" value="发送验证码" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;" vertex="1" parent="GCcJq7iA-P6piwCQyilY-1">
+          <mxGeometry x="705.63" y="340" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
