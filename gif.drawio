@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T13:08:36.601Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4181.9 Safari/537.36" etag="6FgnzRQeqW5FHtiiZMXW" version="14.1.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2020-12-24T13:09:33.520Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4181.9 Safari/537.36" etag="b-8YYG0FSaOFk2ajQ_Me" version="14.1.2" type="github" pages="18">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="2062" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2665,10 +2665,10 @@
           <mxGeometry x="280" y="160" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QHLTF_e5Euvn0BGJMY33-6" value="修改密码" style="rounded=0;whiteSpace=wrap;html=1;opacity=90;" parent="P15w0PIHoGkN_-GTQg7M-1" vertex="1">
-          <mxGeometry x="720" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="720" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QHLTF_e5Euvn0BGJMY33-7" value="上传头像" style="rounded=0;whiteSpace=wrap;html=1;opacity=90;" parent="P15w0PIHoGkN_-GTQg7M-1" vertex="1">
-          <mxGeometry x="570" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="570" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QHLTF_e5Euvn0BGJMY33-8" value="我参与的(10)" style="rounded=0;whiteSpace=wrap;html=1;opacity=90;" parent="P15w0PIHoGkN_-GTQg7M-1" vertex="1">
           <mxGeometry x="377" y="300" width="120" height="40" as="geometry" />
@@ -2814,7 +2814,7 @@
           <mxGeometry x="940" y="360" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wyAN4lImnCwx5x5aeTHP-0" value="订阅" style="rounded=0;whiteSpace=wrap;html=1;opacity=90;" vertex="1" parent="P15w0PIHoGkN_-GTQg7M-1">
-          <mxGeometry x="870" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="870" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
