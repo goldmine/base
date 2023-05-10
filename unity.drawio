@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T07:02:50.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="yOwRaFYeJ8Bn7QA30M9V" version="21.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-10T07:27:48.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="tT2D76JNRrWx9uc-n0DC" version="21.2.9" type="github" pages="4">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
     <mxGraphModel dx="960" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,8 +41,14 @@
         <mxCell id="BmzqmyCKWLVIEmHk00DR-2" value="&lt;h1&gt;鲁卡斯&lt;/h1&gt;&lt;p&gt;男主角，艾丽丝的小伙伴，&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="200" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BmzqmyCKWLVIEmHk00DR-3" value="&lt;h1&gt;布罗德&lt;/h1&gt;&lt;p&gt;男主角，国王的王子，及继承人，被陷害，驱逐，准备借助黑暗势力反击，夺回王位&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BmzqmyCKWLVIEmHk00DR-3" value="&lt;h1&gt;布罗德&lt;/h1&gt;&lt;p&gt;男主角，国王的大王子，及继承人，被陷害，驱逐，准备借助黑暗势力反击，夺回王位&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="320" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_aXHevzgMMmpmcWoilFO-1" value="&lt;h1&gt;？？？&lt;/h1&gt;&lt;p&gt;男主角，国王的小王子，被控制，借助驱逐保护哥哥&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="480" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iNaj8PheaCeiIjN2RQbL-1" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;受小王子之托暗中保护布罗德&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="630" width="130" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -70,7 +76,7 @@
           <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1AfoKsL_QPTu75MriNp6-2" value="魔法之地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
