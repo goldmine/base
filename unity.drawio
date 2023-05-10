@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T09:59:03.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="WTMiTpDfIGjnP_yiXMPc" version="21.2.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-10T11:41:13.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8tysSSIqTvde6kWpgIWT" version="21.2.9" type="github" pages="7">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
-    <mxGraphModel dx="960" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1119" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,111 +31,117 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UgSOPEFimBubvRE1-O_y" name="script">
-    <mxGraphModel dx="960" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1119" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gh-zWMofSABco3Pbzinb-1" value="丽雅和鲁卡斯救下了布罗德" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gh-zWMofSABco3Pbzinb-1" value="丽雅和鲁卡斯救下了布罗德" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="l5zUoCp1UeQZzIeKHtlR" name="actor">
-    <mxGraphModel dx="110" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="269" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BmzqmyCKWLVIEmHk00DR-1" value="&lt;h1&gt;丽雅&lt;/h1&gt;&lt;p&gt;女主角&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BmzqmyCKWLVIEmHk00DR-1" value="&lt;h1&gt;丽雅&lt;/h1&gt;&lt;p&gt;女主角&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="80" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BmzqmyCKWLVIEmHk00DR-2" value="&lt;h1&gt;鲁卡斯&lt;/h1&gt;&lt;p&gt;男主角，艾丽丝的小伙伴，&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BmzqmyCKWLVIEmHk00DR-2" value="&lt;h1&gt;鲁卡斯&lt;/h1&gt;&lt;p&gt;男主角，艾丽丝的小伙伴，&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="190" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BmzqmyCKWLVIEmHk00DR-3" value="&lt;h1&gt;布罗德&lt;/h1&gt;&lt;p&gt;男主角，国王的大王子，及继承人，被陷害，驱逐，准备借助黑暗势力反击，夺回王位&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BmzqmyCKWLVIEmHk00DR-3" value="&lt;h1&gt;布罗德&lt;/h1&gt;&lt;p&gt;男主角，国王的大王子，及继承人，被陷害，驱逐，准备借助黑暗势力反击，夺回王位&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="320" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="_aXHevzgMMmpmcWoilFO-1" value="&lt;h1&gt;？？？&lt;/h1&gt;&lt;p&gt;男主角，国王的小王子，被控制，借助驱逐保护哥哥&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="480" width="130" height="110" as="geometry" />
+        <mxCell id="_aXHevzgMMmpmcWoilFO-1" value="&lt;h1&gt;？？？&lt;/h1&gt;&lt;p&gt;男主角，国王的小王子，被控制，借助驱逐保护哥哥&lt;/p&gt;&lt;p&gt;小王子为保护大家，牺牲&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="950" y="480" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="iNaj8PheaCeiIjN2RQbL-1" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iNaj8PheaCeiIjN2RQbL-1" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="630" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mFlQ9kwoch8FisULXt_--1" value="&lt;h1&gt;？？？&lt;/h1&gt;&lt;p&gt;骑士团成员，受小王子之托暗中保护布罗德&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mFlQ9kwoch8FisULXt_--1" value="&lt;h1&gt;？？？&lt;/h1&gt;&lt;p&gt;骑士团成员，受小王子之托暗中保护布罗德&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="640" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mFlQ9kwoch8FisULXt_--2" value="&lt;h1&gt;？？？&lt;/h1&gt;&lt;p&gt;亚瑟骑士团团长&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;保卫王国，受到控制，利用小王子，统治大陆&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mFlQ9kwoch8FisULXt_--2" value="&lt;h1&gt;？？？&lt;/h1&gt;&lt;p&gt;亚瑟骑士团团长&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;保卫王国，受到控制，利用小王子，统治大陆&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="770" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w8b5Ek9BMAi4WgiAW0tf-1" value="&lt;h1&gt;？？？&lt;/h1&gt;&lt;p&gt;路上遇见的精灵伙伴，精灵带走小王子的尸体，去复活&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="500" width="130" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="gzmKEfTp0inIxWTqX8GK" name="world">
-    <mxGraphModel dx="960" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1969" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IwbmW0MbN_Kb3Gvr3mS--1" value="纳吉尔王国&amp;nbsp;&lt;br&gt;阿提卡大陆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IwbmW0MbN_Kb3Gvr3mS--1" value="纳吉尔王国&amp;nbsp;&lt;br&gt;阿提卡大陆" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1AfoKsL_QPTu75MriNp6-1" value="伊瓦尔&lt;br&gt;恶魔之岛 （矮人）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1AfoKsL_QPTu75MriNp6-1" value="伊瓦尔&lt;br&gt;恶魔之岛 （矮人）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1AfoKsL_QPTu75MriNp6-2" value="阿尔卡迪&lt;br&gt;魔法之地 精灵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1AfoKsL_QPTu75MriNp6-2" value="阿尔卡迪&lt;br&gt;魔法之地 精灵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JD45AQwUDbMqlur8dFPG-1" value="卡利多尼&lt;br&gt;遗忘之地 死灵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JD45AQwUDbMqlur8dFPG-1" value="卡利多尼&lt;br&gt;遗忘之地 死灵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZAJYatodzHHuNqzoVfTi-1" value="纳吉尔&lt;br&gt;天空之城 巨人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZAJYatodzHHuNqzoVfTi-1" value="纳吉尔&lt;br&gt;天空之城 巨人" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3mxrlva3pmhkqLtDmIwk-1" value="&lt;h1&gt;天空之城&lt;br&gt;&lt;/h1&gt;&lt;p&gt;天空之城，有一座塔，塔放出结界笼罩遗忘之地，防止死灵作乱&lt;/p&gt;&lt;p&gt;塔有巨人看守&lt;/p&gt;&lt;p&gt;塔下封印着武器&lt;/p&gt;&lt;p&gt;巨人是大陆上最古老的生灵&lt;/p&gt;&lt;p&gt;巨人与死灵远古之战&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="510" width="190" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="qg9e4FYBg6dJLrgk0bGM" name="ethnic">
-    <mxGraphModel dx="960" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1119" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rhH-sP1-RaUctekkT68K-1" value="人类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rhH-sP1-RaUctekkT68K-1" value="人类" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rhH-sP1-RaUctekkT68K-2" value="精灵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rhH-sP1-RaUctekkT68K-2" value="精灵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rhH-sP1-RaUctekkT68K-3" value="巨人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rhH-sP1-RaUctekkT68K-3" value="巨人" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Arh1Pnf3GIzr3rNTziM0-1" value="妖精" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Arh1Pnf3GIzr3rNTziM0-1" value="妖精" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Arh1Pnf3GIzr3rNTziM0-2" value="矮人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Arh1Pnf3GIzr3rNTziM0-2" value="矮人" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Arh1Pnf3GIzr3rNTziM0-3" value="死灵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Arh1Pnf3GIzr3rNTziM0-3" value="死灵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="mLoz09XBgqRSFwQSdw5Y" name="orgnization">
-    <mxGraphModel dx="960" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1119" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="I6GhwBtW4Ylvl5SFnyxz-1" value="亚瑟骑士团" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I6GhwBtW4Ylvl5SFnyxz-1" value="亚瑟骑士团" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="hJnLiZBQ2biKRlu2SW7w" name="inspiration">
-    <mxGraphModel dx="960" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1119" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2D7ryxNd-Mu87SSrKh3W-1" value="一直梦见精灵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2D7ryxNd-Mu87SSrKh3W-1" value="一直梦见精灵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
