@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T06:41:14.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="TrybReZJtkHkcvf8j_aI" version="21.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-10T07:02:50.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="yOwRaFYeJ8Bn7QA30M9V" version="21.2.9" type="github" pages="4">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
     <mxGraphModel dx="960" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,8 +41,8 @@
         <mxCell id="BmzqmyCKWLVIEmHk00DR-2" value="&lt;h1&gt;鲁卡斯&lt;/h1&gt;&lt;p&gt;男主角，艾丽丝的小伙伴，&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="200" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BmzqmyCKWLVIEmHk00DR-3" value="&lt;h1&gt;布罗德&lt;/h1&gt;&lt;p&gt;男主角，反派阵营中的王子&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="320" width="130" height="80" as="geometry" />
+        <mxCell id="BmzqmyCKWLVIEmHk00DR-3" value="&lt;h1&gt;布罗德&lt;/h1&gt;&lt;p&gt;男主角，国王的王子，及继承人，被陷害，驱逐，准备借助黑暗势力反击，夺回王位&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="320" width="130" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -53,7 +53,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gh-zWMofSABco3Pbzinb-1" value="丽雅和鲁卡斯救下了布罗德" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="80" width="270" height="60" as="geometry" />
+          <mxGeometry x="40" y="40" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -63,6 +63,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IwbmW0MbN_Kb3Gvr3mS--1" value="统治大陆的王国" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1AfoKsL_QPTu75MriNp6-1" value="恶魔岛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1AfoKsL_QPTu75MriNp6-2" value="魔法之地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
