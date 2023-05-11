@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T02:44:20.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="ihbmQdOLk9UNc78_WMqs" version="21.2.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-11T03:43:23.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="zfDiLezWurkYS3WOq-wX" version="21.2.9" type="github" pages="7">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
     <mxGraphModel dx="960" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,6 +166,15 @@
         </mxCell>
         <mxCell id="odQo4FDhJYf-eJN_imCn-9" value="龙？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="odQo4FDhJYf-eJN_imCn-10" value="坠入星球带来的生物，残暴本能要消灭其它生灵，曾于巨人发生战争，被压制在遗忘之地" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="390" y="635" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="odQo4FDhJYf-eJN_imCn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="679.5" as="sourcePoint" />
+            <mxPoint x="390" y="679.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
