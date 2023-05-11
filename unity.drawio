@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T05:44:09.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="Wh2GUDrdyBTKSekTOBTw" version="21.2.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-11T05:44:35.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="ksWERkT9lTqlgov-f4NF" version="21.2.9" type="github" pages="8">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
     <mxGraphModel dx="960" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,6 +201,14 @@
         <mxCell id="QyhiLbMqa_Vkh9YExwwh-1" value="打开结界还是找寻秘密通道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cLW1pUW41uEZTAH7glaa" name="story">
+    <mxGraphModel dx="960" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
