@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T02:22:14.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="dxIJ5oWs5IrWXoKof-rX" version="21.2.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-11T02:40:58.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="iXH32keEoWZPy10JwLwW" version="21.2.9" type="github" pages="7">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
     <mxGraphModel dx="960" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,30 +111,48 @@
           <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rhH-sP1-RaUctekkT68K-2" value="精灵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rhH-sP1-RaUctekkT68K-3" value="巨人" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="315" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Arh1Pnf3GIzr3rNTziM0-1" value="妖精" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Arh1Pnf3GIzr3rNTziM0-2" value="矮人" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Arh1Pnf3GIzr3rNTziM0-3" value="死灵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6K9cmsZuPY5adyxqHblU-1" value="在巨人消亡之后诞生，远古时期曾经与精灵和睦相处，但是随着种族的壮大，对资源的汲取越来越贪婪，与精灵一族产生矛盾（战争），导致精灵一族迁移至魔法之地，不在于人类往来。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="6K9cmsZuPY5adyxqHblU-1" value="在巨人消亡之后诞生，曾经与精灵和睦相处，但是随着种族的壮大，对资源的汲取越来越贪婪，与精灵一族产生矛盾（战争），导致精灵一族迁移至魔法之地，不在于人类往来。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="390" y="45" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="odQo4FDhJYf-eJN_imCn-1" value="在巨人消亡之后诞生，曾经与人类和睦相处，会使用魔法，看不起人类，繁衍极慢，人数稀少。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="390" y="195" width="290" height="90" as="geometry" />
+          <mxGeometry x="390" y="180" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="odQo4FDhJYf-eJN_imCn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="239.5" as="sourcePoint" />
-            <mxPoint x="390" y="239.5" as="targetPoint" />
+            <mxPoint x="240" y="224.5" as="sourcePoint" />
+            <mxPoint x="390" y="224.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="odQo4FDhJYf-eJN_imCn-3" value="星球的原住民，（依靠星球的能量诞生？）。远古与星球的入侵者死灵发生战争，导致消亡，仅有非常少数在天空之城，守卫天空塔" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="odQo4FDhJYf-eJN_imCn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="344.5" as="sourcePoint" />
+            <mxPoint x="390" y="344.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="odQo4FDhJYf-eJN_imCn-5" value="星球的动物，在吸收一定的能量后，会成为妖精，可以变成人形。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="390" y="415" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="odQo4FDhJYf-eJN_imCn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="459.5" as="sourcePoint" />
+            <mxPoint x="390" y="459.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
