@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T08:40:51.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="bqWT-vWXKABIXw8rwDDX" version="21.2.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-11T08:47:08.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="dAnY25wan7yf6xRBxbY1" version="21.2.9" type="github" pages="8">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
     <mxGraphModel dx="960" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -209,8 +209,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Qm3MuT-z4iHMf88TcPlZ-1" value="&lt;h1&gt;主线&lt;/h1&gt;&lt;p&gt;丽雅和鲁卡斯是一对兄妹，（丽雅为收养，有精灵血统？ ）&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="60" width="190" height="120" as="geometry" />
+        <mxCell id="Qm3MuT-z4iHMf88TcPlZ-1" value="&lt;h1&gt;主线&lt;/h1&gt;&lt;p&gt;丽雅和鲁卡斯是一对兄妹，（丽雅为收养，有精灵血统？ ）&lt;/p&gt;&lt;p&gt;丽雅的父亲是一名医生，某天夜里&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="190" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
