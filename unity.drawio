@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T02:41:46.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="0rBOd4UyUSXZbFk9WI-x" version="21.2.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-11T02:44:20.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="ihbmQdOLk9UNc78_WMqs" version="21.2.9" type="github" pages="7">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
     <mxGraphModel dx="960" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
           <mxGeometry x="120" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Arh1Pnf3GIzr3rNTziM0-3" value="死灵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6K9cmsZuPY5adyxqHblU-1" value="在巨人消亡之后诞生，曾经与精灵和睦相处，但是随着种族的壮大，对资源的汲取越来越贪婪，与精灵一族产生矛盾（战争），导致精灵一族迁移至魔法之地，不在于人类往来。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="390" y="45" width="290" height="90" as="geometry" />
@@ -154,6 +154,18 @@
             <mxPoint x="240" y="459.5" as="sourcePoint" />
             <mxPoint x="390" y="459.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="odQo4FDhJYf-eJN_imCn-7" value="星球的动物，在吸收一定的能量后，会成为妖精，可以变成人形。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="390" y="525" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="odQo4FDhJYf-eJN_imCn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="569.5" as="sourcePoint" />
+            <mxPoint x="390" y="569.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="odQo4FDhJYf-eJN_imCn-9" value="龙？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
