@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T08:51:12.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="l9i6U30jHYAicjwuJJt_" version="21.2.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-12T03:01:25.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="8E5Mx23AcKn1fEPD_fVy" version="21.2.9" type="github" pages="8">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
     <mxGraphModel dx="960" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6K9cmsZuPY5adyxqHblU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rhH-sP1-RaUctekkT68K-1" target="6K9cmsZuPY5adyxqHblU-1">
+        <mxCell id="6K9cmsZuPY5adyxqHblU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rhH-sP1-RaUctekkT68K-1" target="6K9cmsZuPY5adyxqHblU-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rhH-sP1-RaUctekkT68K-1" value="人类" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -125,52 +125,52 @@
         <mxCell id="Arh1Pnf3GIzr3rNTziM0-3" value="死灵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6K9cmsZuPY5adyxqHblU-1" value="在巨人消亡之后诞生，曾经与精灵和睦相处，但是随着种族的壮大，对资源的汲取越来越贪婪，与精灵一族产生矛盾（战争），导致精灵一族迁移至魔法之地，不在于人类往来。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="6K9cmsZuPY5adyxqHblU-1" value="在巨人消亡之后诞生，曾经与精灵和睦相处，但是随着种族的壮大，对资源的汲取越来越贪婪，与精灵一族产生矛盾（战争），导致精灵一族迁移至魔法之地，不在于人类往来。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="390" y="45" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="odQo4FDhJYf-eJN_imCn-1" value="在巨人消亡之后诞生，曾经与人类和睦相处，会使用魔法，看不起人类，繁衍极慢，人数稀少。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="odQo4FDhJYf-eJN_imCn-1" value="在巨人消亡之后诞生，曾经与人类和睦相处，会使用魔法，看不起人类，繁衍极慢，人数稀少。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="390" y="180" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="odQo4FDhJYf-eJN_imCn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="odQo4FDhJYf-eJN_imCn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="224.5" as="sourcePoint" />
             <mxPoint x="390" y="224.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="odQo4FDhJYf-eJN_imCn-3" value="星球的原住民，（依靠星球的能量诞生？）。远古与星球的入侵者死灵发生战争，导致消亡，仅有非常少数在天空之城，守卫天空塔" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="odQo4FDhJYf-eJN_imCn-3" value="星球的原住民，（依靠星球的能量诞生？）。远古与星球的入侵者死灵发生战争，导致消亡，仅有非常少数在天空之城，守卫天空塔" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="390" y="300" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="odQo4FDhJYf-eJN_imCn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="odQo4FDhJYf-eJN_imCn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="344.5" as="sourcePoint" />
             <mxPoint x="390" y="344.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="odQo4FDhJYf-eJN_imCn-5" value="星球的动物，在吸收一定的能量后，会成为妖精，可以变成人形。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="odQo4FDhJYf-eJN_imCn-5" value="星球的动物，在吸收一定的能量后，会成为妖精，可以变成人形。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="390" y="415" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="odQo4FDhJYf-eJN_imCn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="odQo4FDhJYf-eJN_imCn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="459.5" as="sourcePoint" />
             <mxPoint x="390" y="459.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="odQo4FDhJYf-eJN_imCn-7" value="星球的动物，在吸收一定的能量后，会成为妖精，可以变成人形。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="odQo4FDhJYf-eJN_imCn-7" value="星球的动物，在吸收一定的能量后，会成为妖精，可以变成人形。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="390" y="525" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="odQo4FDhJYf-eJN_imCn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="odQo4FDhJYf-eJN_imCn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="569.5" as="sourcePoint" />
             <mxPoint x="390" y="569.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="odQo4FDhJYf-eJN_imCn-9" value="龙？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="odQo4FDhJYf-eJN_imCn-9" value="龙？" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="odQo4FDhJYf-eJN_imCn-10" value="坠入星球带来的生物，残暴本能要消灭其它生灵，曾于巨人发生战争，被压制在遗忘之地" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="odQo4FDhJYf-eJN_imCn-10" value="坠入星球带来的生物，残暴本能要消灭其它生灵，曾于巨人发生战争，被压制在遗忘之地" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="390" y="635" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="odQo4FDhJYf-eJN_imCn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="odQo4FDhJYf-eJN_imCn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="679.5" as="sourcePoint" />
             <mxPoint x="390" y="679.5" as="targetPoint" />
@@ -198,7 +198,7 @@
         <mxCell id="2D7ryxNd-Mu87SSrKh3W-1" value="一直梦见精灵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QyhiLbMqa_Vkh9YExwwh-1" value="打开结界还是找寻秘密通道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyhiLbMqa_Vkh9YExwwh-1" value="打开结界还是找寻秘密通道" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -209,8 +209,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Qm3MuT-z4iHMf88TcPlZ-1" value="&lt;h1&gt;主线&lt;/h1&gt;&lt;p&gt;丽雅和鲁卡斯是一对兄妹，（丽雅为收养，有精灵血统？ ）&lt;/p&gt;&lt;p&gt;丽雅的父亲是一名医生，某天夜里&lt;span style=&quot;background-color: initial;&quot;&gt;骑士带着受伤的少年拜访，求医&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="60" width="190" height="180" as="geometry" />
+        <mxCell id="Qm3MuT-z4iHMf88TcPlZ-1" value="&lt;h1&gt;主线&lt;/h1&gt;&lt;p&gt;丽雅和鲁卡斯是一对兄妹，（丽雅为收养，有精灵血统？ ）&lt;/p&gt;&lt;p&gt;丽雅的父亲是一名医生，某天夜里&lt;span style=&quot;background-color: initial;&quot;&gt;骑士带着受伤的少年拜访，求医&lt;/span&gt;&lt;/p&gt;&lt;p&gt;为了医好少年，&lt;/p&gt;丽雅和鲁卡斯和骑士一起去深林里面找药草，碰到亚瑟团长手下，危机关头，妖精登场，施展魔法打败敌人救下三人&lt;br&gt;&lt;br&gt;丽雅和鲁卡斯为感谢妖精，邀请妖精去家里作客&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="60" width="190" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
