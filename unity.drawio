@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T07:10:19.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="WkA6XKZim3iRRdz0z19W" version="21.1.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-16T07:23:01.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ZX7_Zn5XptkDi5hA59FI" version="21.1.8" type="github" pages="8">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
     <mxGraphModel dx="895" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -205,15 +205,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cLW1pUW41uEZTAH7glaa" name="story">
-    <mxGraphModel dx="760" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Qm3MuT-z4iHMf88TcPlZ-1" value="&lt;h1&gt;主线&lt;/h1&gt;&lt;p&gt;丽雅和鲁卡斯是一对兄妹，（丽雅为收养，有精灵血统？ ）&lt;/p&gt;&lt;p&gt;丽雅的父亲是一名医生，某天夜里&lt;span style=&quot;background-color: initial;&quot;&gt;骑士带着受伤的少年拜访，求医&lt;/span&gt;&lt;/p&gt;&lt;p&gt;为了医好少年，&lt;/p&gt;丽雅和鲁卡斯和骑士一起去深林里面找药草，碰到亚瑟团长手下？？，危机关头，妖精登场，施展魔法打败敌人救下三人，（妖精为死灵控制，诱惑少年去遗忘之地打破屏障）&lt;br&gt;&lt;br&gt;丽雅和鲁卡斯为感谢妖精，邀请妖精去家里作客&lt;br&gt;&lt;br&gt;少年被医好了，向妖精打听如何学习魔法，妖精告诉他要去遗忘之地，必须打破屏障才能进入。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="60" width="250" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="QFpJE7uLEr02LmBJ71fY-1" value="&lt;h1&gt;主线&lt;/h1&gt;&lt;p&gt;丽雅和鲁卡斯是一对兄妹，（丽雅为收养，有精灵血统？ ）&lt;/p&gt;&lt;p&gt;丽雅的父亲是一名医生，某天夜里&lt;span style=&quot;background-color: initial;&quot;&gt;骑士带着受伤的少年拜访，求医&lt;/span&gt;&lt;/p&gt;&lt;p&gt;为了医好少年，&lt;/p&gt;丽雅和鲁卡斯和骑士一起去深林里面找药草，碰到亚瑟团长手下？？，&lt;br&gt;&lt;br&gt;&lt;br&gt;危机关头，妖精登场，施展魔法打败敌人救下三人，（妖精为死灵控制，诱惑少年去遗忘之地打破屏障）&lt;br&gt;&lt;br&gt;丽雅和鲁卡斯为感谢妖精，邀请妖精去家里作客&lt;br&gt;&lt;br&gt;少年被医好了，向妖精打听如何学习魔法，妖精告诉他，魔法是一位来自遗忘之地的神秘人所教，但是如何去遗忘之地，神秘人好像提到要先前往天空之城。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="60" width="320" height="430" as="geometry" />
+        <mxCell id="QFpJE7uLEr02LmBJ71fY-1" value="&lt;h1&gt;主线&lt;/h1&gt;&lt;p&gt;丽雅和鲁卡斯是一对兄妹，（丽雅为收养，有精灵血统？ ）&lt;/p&gt;&lt;p&gt;丽雅的父亲是一名医生，某天夜里&lt;span style=&quot;background-color: initial;&quot;&gt;骑士带着受伤的少年拜访，求医&lt;/span&gt;&lt;/p&gt;&lt;p&gt;为了医好少年，&lt;/p&gt;丽雅和鲁卡斯和骑士一起去深林里面找药草，碰到亚瑟团长手下？？，&lt;br&gt;&lt;br&gt;&lt;br&gt;危机关头，妖精登场，施展魔法打败敌人救下三人，（妖精为死灵控制，诱惑少年去遗忘之地打破屏障）&lt;br&gt;&lt;br&gt;丽雅和鲁卡斯为感谢妖精，邀请妖精去家里作客&lt;br&gt;&lt;br&gt;少年被医好了，向妖精打听如何学习魔法，妖精告诉他，魔法是一位来自遗忘之地的神秘人所教，但是如何去遗忘之地，神秘人好像提到要先前往天空之城。&lt;br&gt;&lt;br&gt;丽雅在书中读到过关于天空之城的传说，书的作者是一名诗人住在南边的城市？？？，丽雅和鲁卡斯（想要跟随骑士学习武艺）也一起同行，前往南方&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="60" width="320" height="550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
