@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T09:18:26.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zzZeYZNAkNVOzMejzfO8" version="21.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-22T12:52:07.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="hb9VHuriyJe0bIzVjNlQ" version="21.3.2" type="github" pages="2">
   <diagram name="2D Controller" id="tXJ6dl-p5brDEcSfqaRl">
-    <mxGraphModel dx="1581" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1809" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,11 +13,14 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="TnuhlUzvkg4B_Vect5qk" name="第 2 页">
-    <mxGraphModel dx="1234" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="TnuhlUzvkg4B_Vect5qk" name="camera">
+    <mxGraphModel dx="982" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N3LG8Io3-DzzShVIKCr1-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
