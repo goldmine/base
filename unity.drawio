@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T02:54:21.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="aVDtM_nZmEicpAFcX3te" version="21.3.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-05-30T02:54:30.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="a6pPcrH846CLr-6_iIO3" version="21.3.2" type="github" pages="10">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
     <mxGraphModel dx="1336" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="BmzqmyCKWLVIEmHk00DR-1" value="&lt;h1&gt;丽雅&lt;/h1&gt;&lt;p&gt;女主角&lt;/p&gt;&lt;p&gt;聪慧，喜欢读书，知识丰富，性格善良温婉，坚强，遇事果断。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="940" y="20" width="440" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="BmzqmyCKWLVIEmHk00DR-2" value="&lt;h1&gt;格雷文&lt;/h1&gt;&lt;p&gt;男主角，艾丽丝的哥哥，喜欢剑术，好强，又缺乏一点勇气，喜欢与丽雅互怼&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BmzqmyCKWLVIEmHk00DR-2" value="&lt;h1&gt;格雷文&lt;/h1&gt;&lt;p&gt;男主角，艾丽丝的哥哥，喜欢剑术，好强，又缺乏勇气，喜欢与丽雅互怼&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="190" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BmzqmyCKWLVIEmHk00DR-3" value="&lt;h1&gt;布罗德&lt;/h1&gt;&lt;p&gt;男主角，国王的大王子&lt;br&gt;&lt;/p&gt;&lt;p&gt;表面冷峻，话不多，内心善良,温柔，性格坚强，&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
