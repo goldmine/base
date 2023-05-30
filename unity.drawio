@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T02:24:47.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Wdt-dI0_WJ5FzgheZTwQ" version="21.3.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-05-30T02:27:34.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="pQoTvlkwgKrwXBxtGk2i" version="21.3.2" type="github" pages="10">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
     <mxGraphModel dx="1633" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,8 +52,8 @@
         <mxCell id="BmzqmyCKWLVIEmHk00DR-2" value="&lt;h1&gt;鲁卡斯&lt;/h1&gt;&lt;p&gt;男主角，艾丽丝的哥哥，喜欢剑术，性格外向幽默&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="190" width="350" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BmzqmyCKWLVIEmHk00DR-3" value="&lt;h1&gt;布罗德&lt;/h1&gt;&lt;p&gt;男主角，国王的大王子，及继承人，被陷害，驱逐，准备借助黑暗势力反击，夺回王位&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="950" y="320" width="130" height="110" as="geometry" />
+        <mxCell id="BmzqmyCKWLVIEmHk00DR-3" value="&lt;h1&gt;布罗德&lt;/h1&gt;&lt;p&gt;表面冷峻，话不多，内心善良,温柔，性格坚强，。&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="950" y="320" width="350" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_aXHevzgMMmpmcWoilFO-1" value="&lt;h1&gt;？？？&lt;/h1&gt;&lt;p&gt;男主角，国王的小王子，被控制，借助驱逐保护哥哥&lt;/p&gt;&lt;p&gt;小王子为保护大家，牺牲&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="480" width="130" height="150" as="geometry" />
