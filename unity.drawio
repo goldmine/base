@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T02:43:55.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="sSZGBFvQykwEXnxLbKAI" version="21.3.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-05-30T02:46:01.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vJdBPQcOnpioxGqEZfSW" version="21.3.2" type="github" pages="10">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
     <mxGraphModel dx="1336" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,7 +155,7 @@
             <mxPoint x="390" y="459.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="odQo4FDhJYf-eJN_imCn-7" value="人类的分支，居住在在吸收一定的能量后，会成为妖精，可以变成人形。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="odQo4FDhJYf-eJN_imCn-7" value="人类的分支？有限来往，喜欢经商，能抵御魔法？" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="390" y="525" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="odQo4FDhJYf-eJN_imCn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
