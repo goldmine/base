@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T02:54:30.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="a6pPcrH846CLr-6_iIO3" version="21.3.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-05-30T02:54:43.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="4apVfEpOP_S1L5j9nGKr" version="21.3.2" type="github" pages="10">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
     <mxGraphModel dx="1336" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BmzqmyCKWLVIEmHk00DR-1" value="&lt;h1&gt;丽雅&lt;/h1&gt;&lt;p&gt;女主角&lt;/p&gt;&lt;p&gt;聪慧，喜欢读书，知识丰富，性格善良温婉，坚强，遇事果断。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="940" y="20" width="440" height="120" as="geometry" />
+          <mxGeometry x="950" y="30" width="440" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BmzqmyCKWLVIEmHk00DR-2" value="&lt;h1&gt;格雷文&lt;/h1&gt;&lt;p&gt;男主角，艾丽丝的哥哥，喜欢剑术，好强，又缺乏勇气，喜欢与丽雅互怼&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="190" width="350" height="80" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="950" y="630" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mFlQ9kwoch8FisULXt_--1" value="&lt;h1&gt;瓦尔特&lt;/h1&gt;&lt;p&gt;骑士团成员，受小王子之托暗中保护布罗德，喜欢酒，性格豪爽，幽默&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="960" y="610" width="220" height="110" as="geometry" />
+          <mxGeometry x="950" y="610" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mFlQ9kwoch8FisULXt_--2" value="&lt;h1&gt;德里克斯&lt;/h1&gt;&lt;p&gt;亚瑟骑士团团长&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;保卫王国，受到控制，利用小王子，统治大陆&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="770" width="130" height="110" as="geometry" />
