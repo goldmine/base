@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T06:46:06.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="IJaTXGzuUG2Ukz2A4_Jy" version="21.3.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-05-31T06:53:44.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="bKaiidhY8xpKohBWgFLw" version="21.3.4" type="github" pages="10">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
     <mxGraphModel dx="1174" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -249,6 +249,29 @@
         </mxCell>
         <mxCell id="aA1eQx1o_hISZJ0uN7kM-1" value="&lt;h1&gt;艾琳娜&lt;/h1&gt;&lt;p&gt;需要去王宫寻找一件精灵族的圣物&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="370" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi2rmHjBdLF64Qnz-GLV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bi2rmHjBdLF64Qnz-GLV-1" target="Bi2rmHjBdLF64Qnz-GLV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi2rmHjBdLF64Qnz-GLV-1" value="魔晶石" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="580" width="115" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi2rmHjBdLF64Qnz-GLV-2" value="矮人可以利用魔晶石制作魔法武器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi2rmHjBdLF64Qnz-GLV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bi2rmHjBdLF64Qnz-GLV-4" target="Bi2rmHjBdLF64Qnz-GLV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bi2rmHjBdLF64Qnz-GLV-4" value="精灵的小团体利用黑晶石发明了死灵魔法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi2rmHjBdLF64Qnz-GLV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bi2rmHjBdLF64Qnz-GLV-7" target="Bi2rmHjBdLF64Qnz-GLV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi2rmHjBdLF64Qnz-GLV-7" value="黑金石能侵蚀人的心智" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
