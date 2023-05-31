@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T06:43:58.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="VGQHNemKsVv4AZgJJKtv" version="21.3.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-05-31T06:46:06.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="IJaTXGzuUG2Ukz2A4_Jy" version="21.3.4" type="github" pages="10">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
     <mxGraphModel dx="1174" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qg9e4FYBg6dJLrgk0bGM" name="ethnic">
-    <mxGraphModel dx="1336" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1174" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,7 +170,7 @@
         <mxCell id="odQo4FDhJYf-eJN_imCn-9" value="龙？" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="odQo4FDhJYf-eJN_imCn-10" value="坠入星球带来的生物，残暴本能要消灭其它生灵，曾于巨人发生战争，被压制在遗忘之地" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="odQo4FDhJYf-eJN_imCn-10" value="坠入星球带来的生物，残暴本能要消灭其它生灵，曾于巨人发生战争，被压制在遗忘之地&lt;br&gt;&lt;br&gt;魔晶石" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="390" y="635" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="odQo4FDhJYf-eJN_imCn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
