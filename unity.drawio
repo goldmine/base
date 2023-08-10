@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T03:47:33.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="MzbQEH2L40x3TF33pZiQ" version="21.3.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-08-10T01:51:37.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="kvu8yyOcqHCTX20cOFQp" version="21.6.7" type="github" pages="10">
   <diagram name="3D" id="CdzC-Nyqhoyh3XvEmmsK">
-    <mxGraphModel dx="1215" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1288" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,6 +26,9 @@
         </mxCell>
         <mxCell id="kiiwitG_A4aIN3O4ixJo-10" value="参数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vdlIRnRUIMTPvILe3Ykt-1" value="(masterpiece, perfect, ultra detailed:1.3), (web design:1.4), a beautiful landing page, navigation, hero section, footer, fresh look, modern, design, ui, ux, award-winning, featured on dribbble, trending, digital, beautiful colors, by Kevin Powell&#xa;&#xa;Negative prompt:&#xa;&#xa;(worst quality, low quality:1.4), bad, poor, poorly drawn, bad design, mess, ugly, misplaced, bad shapes, weird shapes, environments, rooms, real life, 3d, unclear, bad_prompt_version2, EasyNegative, blurry" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="390" width="560" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
