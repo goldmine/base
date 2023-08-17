@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T02:01:25.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="DFqxSTCmv0Ku1ZW9qR5V" version="21.6.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-17T04:25:50.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="yG-BevBCsLUh_LwM_B_I" version="21.6.8" type="github" pages="5">
   <diagram name="prisma" id="fR4bRruJ7Pk9LS7oelqa">
-    <mxGraphModel dx="1877" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1129" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,15 +90,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_-HXnLdmxGGwrnoy2HIj" name="dto">
-    <mxGraphModel dx="1877" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1129" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pK1j9z05MB518ssZakhJ-2" value="import { UserType } from &#39;@prisma/client&#39;;&#xa;import {&#xa;  IsString,&#xa;  IsNotEmpty,&#xa;  IsEmail,&#xa;  MinLength,&#xa;  Matches,&#xa;  IsEnum,&#xa;  IsOptional,&#xa;} from &#39;class-validator&#39;;&#xa;&#xa;&#xa;export class SignupDto {&#xa;  @IsString()&#xa;  @IsNotEmpty()&#xa;  name: string;&#xa;&#xa;&#xa;  @Matches(/^(\+\d{1,2}\s?)?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}$/, {&#xa;    message: &#39;phone must be a valid phone number&#39;,&#xa;  })&#xa;  phone: string;&#xa;&#xa;&#xa;  @IsEmail()&#xa;  email: string;&#xa;&#xa;&#xa;  @IsString()&#xa;  @MinLength(5)&#xa;  password: string;&#xa;&#xa;&#xa;  @IsOptional()&#xa;  @IsString()&#xa;  @IsNotEmpty()&#xa;  productKey?: string;&#xa;}&#xa;&#xa;&#xa;export class SigninDto {&#xa;  @IsEmail()&#xa;  email: string;&#xa;&#xa;&#xa;  @IsString()&#xa;  @MinLength(5)&#xa;  password: string;&#xa;}&#xa;&#xa;&#xa;export class GenerateProductKeyDto {&#xa;  @IsEmail()&#xa;  email: string;&#xa;&#xa;&#xa;  @IsEnum(UserType)&#xa;  userType: UserType;&#xa;}" style="text;whiteSpace=wrap;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="pK1j9z05MB518ssZakhJ-2" value="import { UserType } from &#39;@prisma/client&#39;;&#xa;import {&#xa;  IsString,&#xa;  IsNotEmpty,&#xa;  IsEmail,&#xa;  MinLength,&#xa;  Matches,&#xa;  IsEnum,&#xa;  IsOptional,&#xa;} from &#39;class-validator&#39;;&#xa;&#xa;&#xa;export class SignupDto {&#xa;  @IsString()&#xa;  @IsNotEmpty()&#xa;  name: string;&#xa;&#xa;&#xa;  @Matches(/^(\+\d{1,2}\s?)?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}$/, {&#xa;    message: &#39;phone must be a valid phone number&#39;,&#xa;  })&#xa;  phone: string;&#xa;&#xa;&#xa;  @IsEmail()&#xa;  email: string;&#xa;&#xa;&#xa;  @IsString()&#xa;  @MinLength(5)&#xa;  password: string;&#xa;&#xa;&#xa;  @IsOptional()&#xa;  @IsString()&#xa;  @IsNotEmpty()&#xa;  productKey?: string;&#xa;}&#xa;&#xa;&#xa;export class SigninDto {&#xa;  @IsEmail()&#xa;  email: string;&#xa;&#xa;&#xa;  @IsString()&#xa;  @MinLength(5)&#xa;  password: string;&#xa;}&#xa;&#xa;&#xa;export class GenerateProductKeyDto {&#xa;  @IsEmail()&#xa;  email: string;&#xa;&#xa;&#xa;  @IsEnum(UserType)&#xa;  userType: UserType;&#xa;}" style="text;whiteSpace=wrap;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="260" y="40" width="370" height="870" as="geometry" />
         </mxCell>
-        <mxCell id="pK1j9z05MB518ssZakhJ-3" value="For Valication" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="pK1j9z05MB518ssZakhJ-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;class-validator&lt;br&gt;For Valication&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RGCs49-FSYw0sUOtr29c-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;class-transformor&lt;br&gt;for response DTO&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
