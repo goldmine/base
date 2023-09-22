@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T07:26:35.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="RoliN8LHiGHs2zKk_COg" version="21.8.0" type="github" pages="5">
-  <diagram name="HomePage" id="-rVS1paRAslWvYF2sDM_">
+<mxfile host="app.diagrams.net" modified="2023-09-22T07:31:11.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="HGhC0ZfD467UvJ2QvwMj" version="21.8.0" type="github" pages="6">
+  <diagram name="Home首页" id="-rVS1paRAslWvYF2sDM_">
     <mxGraphModel dx="862" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -58,7 +58,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="kwofx5_6vDa1dnMvM_Zq" name="Profile">
+  <diagram id="kwofx5_6vDa1dnMvM_Zq" name="Profile个人信息">
     <mxGraphModel dx="862" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -88,6 +88,23 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2nhmf2cvJelQ4s_en53G" name="Notebook">
+    <mxGraphModel dx="862" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xe-b4_l2i_LOVAjwAXAL-1" value="新建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xe-b4_l2i_LOVAjwAXAL-2" value="修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xe-b4_l2i_LOVAjwAXAL-3" value="删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8gzh2l30n9lLBOtS5JR7" name="Schedule">
     <mxGraphModel dx="862" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
