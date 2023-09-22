@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T07:42:32.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="39wgMISDHbdTcdTDqrvU" version="21.8.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-09-22T07:53:02.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="QOTsNw--01znhbK7RwJd" version="21.8.0" type="github" pages="6">
   <diagram name="Home首页" id="-rVS1paRAslWvYF2sDM_">
     <mxGraphModel dx="862" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -102,7 +102,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="2nhmf2cvJelQ4s_en53G" name="Notebook">
+  <diagram id="2nhmf2cvJelQ4s_en53G" name="Notebook记事本">
     <mxGraphModel dx="862" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -119,7 +119,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="8gzh2l30n9lLBOtS5JR7" name="Schedule">
+  <diagram id="8gzh2l30n9lLBOtS5JR7" name="Notebook_detail单个记事本">
     <mxGraphModel dx="862" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
