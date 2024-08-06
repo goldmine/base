@@ -4,11 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0Q7CEWDq-pExoc-x2X9--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PIL4MTsOai5iQu4gPG1r-1" target="0Q7CEWDq-pExoc-x2X9--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Q7CEWDq-pExoc-x2X9--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PIL4MTsOai5iQu4gPG1r-1" target="0Q7CEWDq-pExoc-x2X9--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PIL4MTsOai5iQu4gPG1r-1" value="创建游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PIL4MTsOai5iQu4gPG1r-2" value="创建团队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PIL4MTsOai5iQu4gPG1r-3" value="发布动态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
@@ -16,17 +22,35 @@
         <mxCell id="PIL4MTsOai5iQu4gPG1r-4" value="发布招聘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0Q7CEWDq-pExoc-x2X9--6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="410" width="850" height="190" as="geometry" />
+        </mxCell>
         <mxCell id="PIL4MTsOai5iQu4gPG1r-5" value="邀请成员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PIL4MTsOai5iQu4gPG1r-6" value="私信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PIL4MTsOai5iQu4gPG1r-7" value="关注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PIL4MTsOai5iQu4gPG1r-8" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Q7CEWDq-pExoc-x2X9--2" value="讨论区" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0Q7CEWDq-pExoc-x2X9--4" value="游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Q7CEWDq-pExoc-x2X9--5" value="团队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Q7CEWDq-pExoc-x2X9--7" value="我的" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Q7CEWDq-pExoc-x2X9--8" value="阶段" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="70" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
