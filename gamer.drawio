@@ -143,8 +143,29 @@
         <mxCell id="P30N_derIhnH16c3IBhd-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.push_notification_service;" vertex="1" parent="1">
           <mxGeometry x="880" y="35" width="40" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="P30N_derIhnH16c3IBhd-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="110" width="340" height="200" as="geometry" />
+        <mxCell id="pxb3VEJj8e1a_XvUAuIJ-1" value="25 项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="120" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxb3VEJj8e1a_XvUAuIJ-2" value="25 团队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="120" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxb3VEJj8e1a_XvUAuIJ-3" value="18 开发者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="120" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B5p4lUt0U5TUYhvH9nCO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="620" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="B5p4lUt0U5TUYhvH9nCO-2" value="开发者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="260" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B5p4lUt0U5TUYhvH9nCO-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Game Name&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UrN5zYVEu3Wb2cxh2N7C-1" value="Image" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="315" y="130" width="315" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="UrN5zYVEu3Wb2cxh2N7C-3" value="立即加入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="210" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
