@@ -14,19 +14,19 @@
           <mxGeometry x="80" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PIL4MTsOai5iQu4gPG1r-2" value="创建团队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PIL4MTsOai5iQu4gPG1r-3" value="发布动态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PIL4MTsOai5iQu4gPG1r-4" value="发布招聘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Q7CEWDq-pExoc-x2X9--6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="410" width="850" height="190" as="geometry" />
         </mxCell>
         <mxCell id="PIL4MTsOai5iQu4gPG1r-5" value="邀请成员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PIL4MTsOai5iQu4gPG1r-6" value="私信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="490" width="120" height="60" as="geometry" />
