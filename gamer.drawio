@@ -116,23 +116,32 @@
         <mxCell id="677b7b8949515195-2" value="LOGO" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="40" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-3" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;comic=1;" parent="1" vertex="1">
+        <mxCell id="677b7b8949515195-3" value="搜索" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;comic=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="40" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-4" value="Topic 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+        <mxCell id="677b7b8949515195-4" value="游戏" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="250" y="45" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-5" value="Topic 2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="330" y="45" width="60" height="20" as="geometry" />
+        <mxCell id="677b7b8949515195-5" value="团队" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="320" y="45" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-6" value="Topic 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="400" y="45" width="60" height="20" as="geometry" />
+        <mxCell id="677b7b8949515195-6" value="招募" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="390" y="45" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-7" value="Topic 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+        <mxCell id="677b7b8949515195-7" value="资讯" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="470" y="45" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-9" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="80" width="1060" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="P30N_derIhnH16c3IBhd-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
+          <mxGeometry x="950" y="35" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P30N_derIhnH16c3IBhd-2" value="username" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P30N_derIhnH16c3IBhd-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.push_notification_service;" vertex="1" parent="1">
+          <mxGeometry x="880" y="35" width="40" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
