@@ -91,7 +91,7 @@
           <mxGeometry x="555" y="390" width="285" height="10" as="geometry" />
         </mxCell>
         <mxCell id="cZtYRGtkX4yqN7SEWaZJ-34" value="微信登录" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="655" y="430" width="85" height="85" as="geometry" />
+          <mxGeometry x="655" y="447.5" width="85" height="85" as="geometry" />
         </mxCell>
         <mxCell id="cZtYRGtkX4yqN7SEWaZJ-36" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Game Name&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="430" width="430" height="120" as="geometry" />
